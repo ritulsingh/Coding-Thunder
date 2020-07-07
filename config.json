@@ -1,0 +1,24 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/codingthunder",
+    "prod_uri": "mysql://root:@localhost/codingthunder",
+    "title": "Coding Thunder",
+    "fb_url": "https://facebook.com/codingthunder",
+    "tw_url": "https://twitter.com/codingthunder",
+    "th_url": "https://github.com/codingthunder",
+    "blog_name": "Coding Thunder",
+    "tag_line": "Program is the best way to timepass",
+    "gmail-user": "mailid@gmail.com",
+    "gmail-password": "password",
+    "about_text": "Hi my name is Ritul Singh and I am python programmer and I am a good boy",
+    "no_of_posts": 5,
+    "login_image":"login.svg",
+    "admin_user":"Ritul",
+    "admin_password": "123456789",
+    "upload_location":"D:\\Programming\\Flask_Web_FrameWork\\blog\\static\\img"
+
+
+  }
+}
